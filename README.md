@@ -66,7 +66,7 @@ To run this project, you will need to add the following environment variables to
 If you have any feedback, please reach out to us at fake@fake.com
 
   
-![Logo](hawk1.jpeg)
+![Logo](hawk1.JPG)
 
     
 ## Tech Stack
