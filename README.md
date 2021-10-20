@@ -84,11 +84,15 @@ If you have any feedback, please reach out to us at our email info@hawkeye-intl.
   
 ## Support
 
-For support, you can contact us at our email
+For support, you can contact us at our email info@hawkeye-intl.com
 
 ## Demo
 
 Contact us for demo
+
+## Website
+
+https://hawkeye-intl.com/
 
 ## App Screenshot
 
