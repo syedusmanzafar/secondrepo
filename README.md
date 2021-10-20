@@ -17,7 +17,7 @@ Combine all security cameras into one common viewing platform, regardless of pro
 ### Full HD Live Video Streaming
 Stream live drone feeds to your command center in real-time
 
-![](hawkeye3.jpeg)
+![](hawkeye3.JPG)
 ## Deployment
 
 To deploy this project run
@@ -88,7 +88,7 @@ Contact us for demo
 
 ## App Screenshot
 
-![App ScreenShot](hawkeye2.jpeg)
+![App ScreenShot](hawkeye2.JPG)
 
   
 ## Roadmap
