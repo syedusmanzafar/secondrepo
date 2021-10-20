@@ -41,21 +41,8 @@ Answer 2 Yes our hub is centralized.
   
 ## 🛠 Skills
 Javascript, HTML, CSS...
+
 https://github.com/hawkeye-intl
-
-  
-## License
-
-[MIT]
-
-  
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
   
 ## Documentation
@@ -82,7 +69,7 @@ If you have any feedback, please reach out to us at our email info@hawkeye-intl.
 
 For support, you can contact us at our email
 
-#Demo
+## Demo
 
 Contact us for demo
 
@@ -94,8 +81,6 @@ Contact us for demo
 ## Roadmap
 
 - Additional browser support
-
-- Add more integrations
 
   
 ## Used By
