@@ -4,17 +4,17 @@
 Providing a functional map is critical to any intelligence operation to visualize your current environment. We provide 3-cm resolution base maps for areas of any size. This includes blurring sensitive areas, marking critical infrastructure, and a comprehensive suite of analytical tools. We provide a state-of-the-art intelligence platform including live drone flights, surveillance capabilities, and world-class imagery.      
 ## Unique ISR capabilities
 
-## Live Object Tracking 
+### Live Object Tracking 
 Automatically track items such as vehicles, people, or animals
 ### Flight Planning
 Advanced flight planning submission, capabilities, and viewing
-## In-Depth Analytics
+### In-Depth Analytics
 Gather analytical insights based on possible threats & illegal activity
-## Anti Jamming Capabilities
+### Anti Jamming Capabilities
 Ensuring you retain control over drones in your airspace
-## Fixed Security Camera Integration
+### Fixed Security Camera Integration
 Combine all security cameras into one common viewing platform, regardless of provider
-## Full HD Live Video Streaming
+### Full HD Live Video Streaming
 Stream live drone feeds to your command center in real-time
 ## Deployment
 
