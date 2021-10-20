@@ -27,14 +27,14 @@ Stream live drone feeds to your command center in real-time
 
 ![](hawkeye3.JPG)
 
-###We Take Intelligence Shortfalls and Remove the Deficits
+### We Take Intelligence Shortfalls and Remove the Deficits
 
-###3-cm Imagery Mapping Service
-###UAV Integration
-###UAV Consulting
-###24/7/365 Pilots-As-A-Service
-###Intelligence Analysis
-###One Centralized Hub
+### 3-cm Imagery Mapping Service
+### UAV Integration
+### UAV Consulting
+### 24/7/365 Pilots-As-A-Service
+### Intelligence Analysis
+### One Centralized Hub
 ## Deployment
 
 To deploy this project run
