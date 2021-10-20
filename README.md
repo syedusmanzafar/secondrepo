@@ -6,7 +6,7 @@ Providing a functional map is critical to any intelligence operation to visualiz
 
 ## Live Object Tracking 
 Automatically track items such as vehicles, people, or animals
-## Flight Planning
+### Flight Planning
 Advanced flight planning submission, capabilities, and viewing
 ## In-Depth Analytics
 Gather analytical insights based on possible threats & illegal activity
