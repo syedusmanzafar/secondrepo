@@ -1,8 +1,13 @@
 
 ![](hawk1.JPG)
 
-Providing a functional map is critical to any intelligence operation to visualize your current environment. We provide 3-cm resolution base maps for areas of any size. This includes blurring sensitive areas, marking critical infrastructure, and a comprehensive suite of analytical tools. We provide a state-of-the-art intelligence platform including live drone flights, surveillance capabilities, and world-class imagery.      
+We Specialize in Providing Intelligence in Austere Environments
+We provide a state-of-the-art intelligence platform including live drone flights, surveillance capabilities, and world-class imagery. 
+
+We’ve integrated an array of systems to ensure your operation has the data it needs at every moment.
+
 ## Unique ISR capabilities
+![](hawkeye4.JPG)
 
 ### Live Object Tracking 
 Automatically track items such as vehicles, people, or animals
@@ -12,12 +17,24 @@ Advanced flight planning submission, capabilities, and viewing
 Gather analytical insights based on possible threats & illegal activity
 ### Anti Jamming Capabilities
 Ensuring you retain control over drones in your airspace
+
+![](hawkeye1.JPG)
+
 ### Fixed Security Camera Integration
 Combine all security cameras into one common viewing platform, regardless of provider
 ### Full HD Live Video Streaming
 Stream live drone feeds to your command center in real-time
 
 ![](hawkeye3.JPG)
+
+###We Take Intelligence Shortfalls and Remove the Deficits
+
+###3-cm Imagery Mapping Service
+###UAV Integration
+###UAV Consulting
+###24/7/365 Pilots-As-A-Service
+###Intelligence Analysis
+###One Centralized Hub
 ## Deployment
 
 To deploy this project run
